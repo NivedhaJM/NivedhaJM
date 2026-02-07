@@ -1,8 +1,8 @@
-👋 Hi, I’m @NivedhaJM !
-👀 I’m interested in coding and problem-solving.
-🌱 I’m currently learning and building projects in Machine Learning.
-💞️ I’m open to collaborating on impactful projects where I can contribute meaningfully.
-📫 How to reach me. Mail me: nivedhajm@gmail.com
+- 👋 Hi, I’m @NivedhaJM !
+- 👀 I’m interested in coding and problem-solving.
+- 🌱 I’m currently learning and building projects in Machine Learning.
+- 💞️ I’m open to collaborating on impactful projects where I can contribute meaningfully.
+- 📫 How to reach me. Mail me: nivedhajm@gmail.com
 
 
 ## 🌐 Socials:
